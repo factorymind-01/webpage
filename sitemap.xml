@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://factorymind-01.github.io/webpage/wp-sitemap-index.xsl" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://factorymind-01.github.io/webpage/wp-sitemap-posts-post-1.xml</loc></sitemap><sitemap><loc>https://factorymind-01.github.io/webpage/wp-sitemap-posts-page-1.xml</loc></sitemap><sitemap><loc>https://factorymind-01.github.io/webpage/wp-sitemap-taxonomies-category-1.xml</loc></sitemap><sitemap><loc>https://factorymind-01.github.io/webpage/wp-sitemap-users-1.xml</loc></sitemap></sitemapindex>
+<!-- permalink_structure ends with slash (/) but REQUEST_URI does not end with slash (/) -->
